@@ -1,2 +1,2 @@
 # KnapsackProblem
-Program to solve de knapsack problem using c++.
+Program to solve the knapsack problem using c++.
